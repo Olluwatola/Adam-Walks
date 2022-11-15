@@ -1,0 +1,16 @@
+Odunlami Oluwatola
+222487
+CSC 235 Assignment
+
+ADAM Walks Pseudocode
+
+1. START
+2. Read "adam.in" file
+3. the system LOOPS through each line of the .in file
+4. each line is tested as an integer
+5. the steps are not counted IF the line passes the test of being an integer
+6. IF the line does not pass the test of being an integer, the numbers of U before D is recorded and returned
+7. END
+
+Github repo link
+https://github.com/Olluwatola/Adam-Walks
